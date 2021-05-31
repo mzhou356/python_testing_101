@@ -1,0 +1,16 @@
+[run]
+branch = True
+source = 
+    src/
+
+[paths]
+source =
+    src/
+    
+[report]
+include = 
+    src/
+exclude_lines = 
+    pragma: no cover
+show_missing = True
+fail_under = 90
