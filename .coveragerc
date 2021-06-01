@@ -1,16 +1,12 @@
 [run]
 branch = True
 source = 
-    src/
+    src
 
 [paths]
 source =
-    src/
+    src
     
 [report]
-include = 
-    src/
-exclude_lines = 
-    pragma: no cover
 show_missing = True
 fail_under = 90
