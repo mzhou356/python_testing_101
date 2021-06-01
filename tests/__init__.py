@@ -1,0 +1,1 @@
+from src.triple_num import triple_num
